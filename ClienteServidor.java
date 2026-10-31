@@ -1,7 +1,6 @@
 package cliente.servidor;
 
 public class ClienteServidor {
-
     /**
      * @param args the command line arguments
      */
